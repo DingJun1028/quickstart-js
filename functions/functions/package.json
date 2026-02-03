@@ -21,7 +21,7 @@
   "devDependencies": {
     "@types/bad-words": "^3.0.3",
     "@typescript-eslint/eslint-plugin": "^6.12.0",
-    "eslint": "^8.53.0",
+    "eslint": "^9.26.0",
     "eslint-config-google": "^0.14.0",
     "eslint-plugin-import": "^2.29.0",
     "eslint-plugin-promise": "^6.1.1",
